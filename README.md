@@ -1,4 +1,4 @@
 backbone-events
 ===============
 
-Events extracted from Backbone.js with no other dependencies"
+Events extracted from Backbone.js with no other dependencies
