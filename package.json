@@ -2,5 +2,5 @@
     "name": "backbone-events",
     "version": "0.9.9",
     "description":  "Events extracted from Backbone with no other dependencies",
-    "main": "./lib/backbone-events.js",
+    "main": "./lib/backbone-events.js"
 }
